@@ -1,0 +1,27 @@
+#navbarMenu{
+    position: absolute !important;
+    background-color: #fff !important;
+    border: rgb(180, 180, 180) 1px solid;
+    font-size: 0.85em;
+    padding: 10% !important;
+    border-radius: 5px !important;
+}
+
+
+.nav-item a {
+    color: #339900 ;
+}
+.nav-item a :hover{
+    color: #ed6a13;
+}
+#navbarDropdown:hover{
+    color: #ed6a13 !important;
+}
+#navbarMenu li:hover a{
+    
+    color: #ed6a13 !important;
+}
+.text-center button a{
+    text-decoration: none;
+    color: #fff;
+}
